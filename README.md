@@ -1,4 +1,4 @@
-﻿# sw_bootcamp_practice
+﻿# LG U+ 7기 sw_bootcamp_practice 저장소
 부트캠프 실습 과정에서 작성된 **Python 기반 웹 스크래핑 + DB 저장 자동화 스크립트 모음**입니다.
 
 ## 1. 프로젝트 개요
@@ -15,3 +15,4 @@
 | `06_tb_weather_tcn_copy.py`, `07_lg7_api_weather_aws1.py` | 날씨 관련 API 데이터 수집 및 DB 저장 (AWS 연계 포함) |
 | `08_2_DuckDB.py` | DuckDB 기반의 데이터 분석 및 저장 |
 | `08_소상공인.py` | 소상공인 관련 데이터를 외부에서 수집해 저장 및 분석 |
+
